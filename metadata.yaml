@@ -1,0 +1,39 @@
+_repo: Viagens-na-Minha-Terra-Completo-_24401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almeida Garrett, João Batista da Silva Leitão de, Visconde de
+    aliases:
+    - Garrett, João Batista da Silva Leitão de Almeida Garrett, Visconde de Almeida
+    - Garret, Almeida
+    birthdate: 1799
+    deathdate: 1854
+    gutenberg_agent_id: '7478'
+    url: http://www.gutenberg.org/2009/agents/7478
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Almeida_Garrett
+    - http://pt.wikipedia.org/wiki/Almeida_Garrett
+description: ''
+gutenberg_issued: '2008-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24401'
+language: pt
+language_note: This ebooks uses a 19th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nNa Typographia da Gazeta dos Ttribunais.\r\n1846."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese fiction'
+title: 'Viagens na Minha Terra
+
+  (Completo)'
+url: http://www.gutenberg.org/ebooks/24401
